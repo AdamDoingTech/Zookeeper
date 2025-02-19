@@ -36,4 +36,4 @@ Copyright © 2022 [@Adam](https://AdamDoing.Tech)
 
 ## License
 
-[MIT]()
+[MIT](https://github.com/AdamDoingTech/Zookeeper/blob/main/LICENSE)
