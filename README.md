@@ -1,6 +1,6 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">🦁</h1>
-<h3 align="center">Zookeper</h3>
+<h3 align="center">Zookeeper Software</h3>
 
   <p align="center">
     <samp>✨ A program that helps a Zookeper monitor the Animals of the Zoo ✨</samp><br>
