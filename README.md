@@ -1,5 +1,6 @@
 <!-- PROJECT LOGO -->
-<h3 align="center"> Zookeper </h3>
+<h1 align="center">🦁</h1>
+<h3 align="center">Zookeper</h3>
 
   <p align="center">
     <samp>✨ A program that helps a Zookeper monitor the Animals of the Zoo ✨</samp><br>
@@ -31,7 +32,7 @@
 <!-- LICENSE -->
 ## Copyright
 
-Copyright © 2022 [@Adam Doin Tech](https://AdamDoing.Tech)
+Copyright © 2022 [@Adam](https://AdamDoing.Tech)
 
 ## License
 
