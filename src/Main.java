@@ -4,7 +4,7 @@ import java.util.Scanner;
  * Zookeper is a program that helps monitor animals at a Zoo.
  * 
  * @author Adam 
- * @version 1.0, Last modifed Feb 19th, 2025
+ * @version 1.0, Last modifed Feb 21th, 2025
  */
 
 public class Main {
@@ -135,7 +135,7 @@ public class Main {
 
         // taking input from the user, using a scanner.
         Scanner input = new Scanner(System.in);
-        System.out.print("Please enter the number of the habitat you would like to view: ");
+        System.out.print("Please enter the number of the habitat you would like to view: "); // question to the user. 
         int userInput = input.nextInt(); // user input.
 
 
